@@ -1,5 +1,8 @@
-Daily question Leetcode
-
+Daily question Leetcode(weekly check)
+done
 Learning new concepts weekly(sunday to sunday)
 
 clg subjects revisoin weekly of any subject
+ML
+DAA
+CC
