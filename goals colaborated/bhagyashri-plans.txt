@@ -1,6 +1,7 @@
 Daily question Leetcode(weekly check)
-done
+done done
 Learning new concepts weekly(sunday to sunday)
+done(week 1)--->>Strings
 
 clg subjects revisoin weekly of any subject
 ML
